@@ -1,3 +1,5 @@
+![](./screenshot.png)
+
 # KiCAD-AZDelivery
 A Library of Footprints and Symbols of [AZ-Delivery](https://www.azde.ly/) Components for [KiCAD](https://www.kicad.org/).
 
